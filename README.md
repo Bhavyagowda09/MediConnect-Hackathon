@@ -1,1 +1,1 @@
-# MediConnect 
+# MediConnect web app
