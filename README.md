@@ -5,7 +5,7 @@
 ## 📌About MediConnect
 _"Connecting Patients, Doctors, and Data in Real Time!"_
 
-MediConnect is a **smart healthcare platform** designed and partially developed to streamline emergency response, provide AI-based medical consultations, and manage patient medical records securely.  
+MediConnect is a **smart healthcare platform** designed and developed to streamline emergency response, provide AI-based medical consultations, and manage patient medical records securely.  
 It focuses on building a reliable foundation for future healthcare solutions without requiring hosting or external integrations at this stage.
 
 ## ❓ Why MediConnect?
